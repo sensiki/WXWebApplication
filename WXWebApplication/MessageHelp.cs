@@ -22,7 +22,7 @@ namespace cn.com.farsight.WX.WXWebApplication
         UserManager um = new UserManager();
         WSNStatusManager wsnsm = new WSNStatusManager();
         WSNCommandManager wsncm = new WSNCommandManager();
-        private string CommandTableName=null;
+        private string CommandTableName = null;
         private string StatusTableName = null;
         //返回消息
         public string ReturnMessage(string postStr)
@@ -91,7 +91,7 @@ namespace cn.com.farsight.WX.WXWebApplication
                     switch (EventKey.InnerText)
                     {
                         case "Light"://灯
-                            if ((Send_Result = SendCommand("41","02", 2)) != 2)
+                            if ((Send_Result = SendCommand("41", "02", 2)) != 2)
                             {
                                 if (Send_Result == 0)
                                     a = "正为您关闭灯1";
@@ -104,7 +104,7 @@ namespace cn.com.farsight.WX.WXWebApplication
                                 a = "操作失败了/::'(，节点好像断开了/:break";
                             break;
                         case "Bluetooth_Buzzer"://蜂鸣器
-                            if ((Send_Result = SendCommand("42","62", 2)) != 2)
+                            if ((Send_Result = SendCommand("42", "62", 2)) != 2)
                             {
                                 if (Send_Result == 0)
                                     a = "正为您关闭蜂鸣器";
@@ -117,7 +117,7 @@ namespace cn.com.farsight.WX.WXWebApplication
                                 a = "操作失败了/::'(，节点好像断开了/:break";
                             break;
                         case "IPv6_Relay"://继电器
-                            if ((Send_Result = SendCommand("49","72", 2)) != 2)
+                            if ((Send_Result = SendCommand("49", "72", 2)) != 2)
                             {
                                 if (Send_Result == 0)
                                     a = "正为您关闭继电器";
@@ -130,7 +130,7 @@ namespace cn.com.farsight.WX.WXWebApplication
                                 a = "操作失败了/::'(，节点好像断开了/:break";
                             break;
                         case "Zigbee_Fan"://风扇
-                            if ((Send_Result = SendCommand("5A","66", 2)) != 2)
+                            if ((Send_Result = SendCommand("5A", "66", 2)) != 2)
                             {
                                 if (Send_Result == 0)
                                     a = "正为您关闭风扇";
@@ -143,47 +143,59 @@ namespace cn.com.farsight.WX.WXWebApplication
                                 a = "操作失败了/::'(，节点好像断开了/:break";
                             break;
 
-                        case "Home_Temperature"://温湿度
-                            WSNStatus s = new WSNStatus();
-                            s.Type = "08";
-                            s = wsnsm.GetListByPage(StatusTableName,s);
-                            a = "温度：" + int.Parse(s.Data.Substring(2, 2), NumberStyles.HexNumber) + "℃" +"\n时间："+s.Time;
+                        case "ZigBee":
+                            NodeStatus ns = new NodeStatus();
+                            ns.Type = "5A";
+                            List<NodeStatus> list = sm.getModelListAll(StatusTableName, ns);
+                            a = create_node_list(list);
                             break;
-                        case "Home_Intensity"://光强
-                            WSNStatus s2 = new WSNStatus();
-                            s2.Type = "09";
-                            s2 = wsnsm.GetListByPage(StatusTableName, s2);
-                            a = "光强：" + (int.Parse(s2.Data.Substring(0, 2), NumberStyles.HexNumber) * 127 + int.Parse(s2.Data.Substring(2, 2), NumberStyles.HexNumber)) +"lux" +"\n时间：" + s2.Time;
+                        case "WiFi":
+                            NodeStatus ns2 = new NodeStatus();
+                            ns2.Type = "57";
+                            List<NodeStatus> list2 = sm.getModelListAll(StatusTableName, ns2);
+                            a = create_node_list(list2);
                             break;
-                        case "Home_Battery"://电量
-                            WSNStatus s3 = new WSNStatus();
-                            s3.Type = "10";
-                            s3 = wsnsm.GetListByPage(StatusTableName, s3);
-                            a = "电量：" + int.Parse(s3.Data.Substring(2, 2), NumberStyles.HexNumber) +"%"+ "\n时间：" + s3.Time;
+                        case "Bluetooth":
+                            NodeStatus ns3 = new NodeStatus();
+                            ns3.Type = "42";
+                            List<NodeStatus> list3 = sm.getModelListAll(StatusTableName, ns3);
+                            a = create_node_list(list3);
+                            break;
+                        case "IPv6":
+                           NodeStatus ns4 = new NodeStatus();
+                            ns4.Type = "49";
+                            List<NodeStatus> list4 = sm.getModelListAll(StatusTableName, ns4);
+                            a = create_node_list(list4);
+                            break;
+                        case "Android":
+                            NodeStatus ns5 = new NodeStatus();
+                            ns5.Type = "41";
+                            List<NodeStatus> list5 = sm.getModelListAll(StatusTableName, ns5);
+                            a = create_node_list(list5);
                             break;
                         default:
                             a = "未知错误！";
                             break;
 
                     }
-                        responseContent = string.Format(ReplyType.Message_Text,
-                            FromUserName.InnerText,
-                            ToUserName.InnerText,
-                            DateTime.Now.Ticks,
-                            a);
-                    
+                    responseContent = string.Format(ReplyType.Message_Text,
+                        FromUserName.InnerText,
+                        ToUserName.InnerText,
+                        DateTime.Now.Ticks,
+                        a);
+
                 }
-                else if(Event.InnerText.Equals("subscribe"))
+                else if (Event.InnerText.Equals("subscribe"))
                 {
                     User u = new User();
                     u.Name = FromUserName.InnerText;
                     string a = EventKey.InnerText;
-                    if (a!=null)
-                    u.Pwd = a.Substring(8, a.Length-8);
+                    if (a != null)
+                        u.Pwd = a.Substring(8, a.Length - 8);
                     u.User_permisson = 1;
                     u.Time = DateTime.Now;
-                    if(!um.updateModel(u))
-                    um.addModel(u);
+                    if (!um.updateModel(u))
+                        um.addModel(u);
                     responseContent = string.Format(ReplyType.Message_Text,
                             FromUserName.InnerText,
                             ToUserName.InnerText,
@@ -219,7 +231,7 @@ namespace cn.com.farsight.WX.WXWebApplication
                             DateTime.Now.Ticks,
                             "欢迎您的再次关注！");
                 }
-                
+
             }
             return responseContent;
         }
@@ -297,7 +309,7 @@ namespace cn.com.farsight.WX.WXWebApplication
                 {
                     a.Append("啊哈哈哈哈哈哈哈哈！！！Surprise！！！！");
                 }
-                else 
+                else
                 {
                     a.Append(Command_Control(Content.InnerText, FromUserName.InnerText));
                 }
@@ -374,12 +386,12 @@ namespace cn.com.farsight.WX.WXWebApplication
         /// On_Off：0关闭，1打开，2改变状态
         /// return：0已发送关闭指令，1已发送打开命令，2节点断开连接，10节点已经是关闭状态，11节点已经是打开状态
         /// </summary>
-        private int SendCommand(string type,string modle,int On_Off)
+        private int SendCommand(string type, string modle, int On_Off)
         {
             NodeStatus s = new NodeStatus();
             s.Type = type;
             s.Modle = modle;
-            s = sm.GetListByPage(StatusTableName,s);
+            s = sm.GetListByPage(StatusTableName, s);
             if (s != null && s.Time.CompareTo(DateTime.Now.AddSeconds(-10)) >= 0 && s.Time.CompareTo(DateTime.Now.AddSeconds(10)) <= 0)
             {
                 byte[] array = new byte[1];
@@ -428,7 +440,7 @@ namespace cn.com.farsight.WX.WXWebApplication
                     return result;
                 else if (command.IndexOf("开") != -1)
                 {
-                    if ((Send_Result = SendCommand("","04", 1)) != 2)
+                    if ((Send_Result = SendCommand("", "04", 1)) != 2)
                     {
                         if (Send_Result == 1)
                             result = "正为您打开蜂鸣器";
@@ -528,13 +540,13 @@ namespace cn.com.farsight.WX.WXWebApplication
                 s = wsnsm.GetListByPage(StatusTableName, s);
                 result = "温度：" + int.Parse(s.Data.Substring(0, 2), NumberStyles.HexNumber) + "℃" + "\n时间：" + s.Time;
             }
-            
+
             else if (command.IndexOf("光强") != -1)
             {
                 WSNStatus s2 = new WSNStatus();
                 s2.Type = "09";
                 s2 = wsnsm.GetListByPage(StatusTableName, s2);
-                result = "光强：" + (int.Parse(s2.Data.Substring(2, 2), NumberStyles.HexNumber) * 127 + int.Parse(s2.Data.Substring(0, 2), NumberStyles.HexNumber)) +"lux"+ "\n时间：" + s2.Time;
+                result = "光强：" + (int.Parse(s2.Data.Substring(2, 2), NumberStyles.HexNumber) * 127 + int.Parse(s2.Data.Substring(0, 2), NumberStyles.HexNumber)) + "lux" + "\n时间：" + s2.Time;
             }
             else if (command.IndexOf("电量") != -1)
             {
@@ -543,11 +555,152 @@ namespace cn.com.farsight.WX.WXWebApplication
                 s = wsnsm.GetListByPage(StatusTableName, s);
                 result = "电量：" + int.Parse(s.Data.Substring(0, 2), NumberStyles.HexNumber) + "%" + "\n时间：" + s.Time;
             }
-            
+
             return result;
         }
-        
+
+        private string create_node_list(List<NodeStatus> list)
+        {
+            StringBuilder sb = new StringBuilder();
+            int i;
+            for (i = 0; i < list.Count; i++)
+            {
+                if(i!=0)
+                    sb.Append("\n");
+
+                int b = Convert.ToInt32(list[i].Modle, 16);
+                switch (b)
+                {
+                    case 0x66://风扇
+                        sb.Append("风扇：");
+                        if (list[i].Data == "000001")
+                            sb.Append("开");
+                        else
+                            sb.Append("关");
+                        break;
+                    case 0x50://光电
+                        sb.Append("光电：");
+                        if (list[i].Data == "000001")
+                            sb.Append("开");
+                        else
+                            sb.Append("关");
+                        break;
+                    case 0x47://烟雾
+                        sb.Append("烟雾：");
+                        sb.Append(Convert.ToInt32(list[i].Data.Substring(2, 4), 16));
+                        break;
+                    case 0x72://继电器
+                        sb.Append("继电器：");
+                        if (list[i].Data == "000001")
+                            sb.Append("开");
+                        else
+                            sb.Append("关");
+                        break;
+                    case 0x62://蜂鸣器
+                        sb.Append("蜂鸣器：");
+                        if (list[i].Data == "000001")
+                            sb.Append("开");
+                        else
+                            sb.Append("关");
+                        break;
+                    case 0x59://光感
+                        sb.Append("光感：");
+                        if (list[i].Data == "000001")
+                            sb.Append("开");
+                        else
+                            sb.Append("关");
+                        break;
+                    case 0x41://三轴
+                        sb.Append("三轴：");
+                        if (list[i].Data == "000001")
+                            sb.Append("开");
+                        else
+                            sb.Append("关");
+                        break;
+                    case 0x49://红外
+                        sb.Append("红外：");
+                        if (list[i].Data == "000001")
+                            sb.Append("开");
+                        else
+                            sb.Append("关");
+                        break;
+                    case 0x53://超声波
+                        sb.Append("超声波：");
+                        sb.Append(Convert.ToInt32(list[i].Data.Substring(2, 4), 16));
+                        break;
+                    case 0x46://火焰
+                        sb.Append("火焰：");
+                        if (list[i].Data == "000001")
+                            sb.Append("有");
+                        else
+                            sb.Append("无");
+                        break;
+                    case 0x56://电位器
+                        sb.Append("电位器：");
+                        sb.Append(Convert.ToInt32(list[i].Data.Substring(2, 4), 16));
+                        break;
+                    case 0x54:
+                        sb.Append("温度：");
+                        sb.Append(int.Parse(list[i].Data.Substring(2, 2), NumberStyles.HexNumber) + "℃");
+                        if (list[i].Time.CompareTo(DateTime.Now.AddSeconds(-30)) > 0)
+                        {
+                            sb.Append("  online");
+                        }
+                        else
+                            sb.Append("   offline");
+
+                        sb.Append("\n湿度：");
+                        sb.Append(int.Parse(list[i].Data.Substring(4, 2), NumberStyles.HexNumber) + "%");
+                        break;
+                    case 0x01://继电器
+                        sb.Append("继电器：");
+                        if (list[i].Data == "000001")
+                            sb.Append("开");
+                        else
+                            sb.Append("关");
+                        break;
+                    case 0x02://灯1
+                        sb.Append("灯1：");
+                        if (list[i].Data == "000001")
+                            sb.Append("开");
+                        else
+                            sb.Append("关");
+                        break;
+                    case 0x03://灯2
+                        sb.Append("灯2：");
+                        if (list[i].Data == "000001")
+                            sb.Append("开");
+                        else
+                            sb.Append("关");
+                        break;
+                    case 0x04://灯3
+                        sb.Append("灯3：");
+                        if (list[i].Data == "000001")
+                            sb.Append("开");
+                        else
+                            sb.Append("关");
+                        break;
+                    case 0x05://灯4
+                        sb.Append("灯4：");
+                        if (list[i].Data == "000001")
+                            sb.Append("开");
+                        else
+                            sb.Append("关");
+                        break;
+                }
+                if (list[i].Time.CompareTo(DateTime.Now.AddSeconds(-10)) > 0)
+                {
+                    sb.Append("   online");
+                }
+                else
+                    sb.Append("   offline");
+
+            }
+            return sb.ToString();
+        }
     }
+        
+    
 
     //回复类型
     public class ReplyType
