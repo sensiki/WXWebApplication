@@ -1,0 +1,26 @@
+C:\Users\siki\Desktop\SHWebApplication\SHDbVisit\bin\Release\DBConfig.ini
+C:\Users\siki\Desktop\SHWebApplication\SHDbVisit\bin\Release\SHDbVisit.dll
+C:\Users\siki\Desktop\SHWebApplication\SHDbVisit\bin\Release\SHDbVisit.pdb
+C:\Users\siki\Desktop\SHWebApplication\SHDbVisit\bin\Release\SHModel.dll
+C:\Users\siki\Desktop\SHWebApplication\SHDbVisit\bin\Release\SqlDB.dll
+C:\Users\siki\Desktop\SHWebApplication\SHDbVisit\bin\Release\ToolsHelper.dll
+C:\Users\siki\Desktop\SHWebApplication\SHDbVisit\bin\Release\NVelocity.dll
+C:\Users\siki\Desktop\SHWebApplication\SHDbVisit\bin\Release\SHModel.pdb
+C:\Users\siki\Desktop\SHWebApplication\SHDbVisit\bin\Release\SqlDB.pdb
+C:\Users\siki\Desktop\SHWebApplication\SHDbVisit\bin\Release\ToolsHelper.pdb
+C:\Users\siki\Desktop\SHWebApplication\SHDbVisit\obj\Release\SHDbVisit.csprojResolveAssemblyReference.cache
+C:\Users\siki\Desktop\SHWebApplication\SHDbVisit\obj\Release\SHDbVisit.dll
+C:\Users\siki\Desktop\SHWebApplication\SHDbVisit\obj\Release\SHDbVisit.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Release\DBConfig.ini
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Release\SHDbVisit.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Release\SHDbVisit.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Release\SHModel.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Release\SqlDB.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Release\ToolsHelper.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Release\NVelocity.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Release\SHModel.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Release\SqlDB.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Release\ToolsHelper.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\obj\Release\SHDbVisit.csprojResolveAssemblyReference.cache
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\obj\Release\SHDbVisit.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\obj\Release\SHDbVisit.pdb

@@ -1,0 +1,10 @@
+E:\visual studio Projects\TransWebApplication\TransWebApplication\bin\TransWebApplication.dll.config
+E:\visual studio Projects\TransWebApplication\TransWebApplication\bin\TransWebApplication.dll
+E:\visual studio Projects\TransWebApplication\TransWebApplication\bin\TransWebApplication.pdb
+E:\visual studio Projects\TransWebApplication\TransWebApplication\obj\Release\TransWebApplication.dll
+E:\visual studio Projects\TransWebApplication\TransWebApplication\obj\Release\TransWebApplication.pdb
+E:\vs Projects\TransWebApplication\TransWebApplication\bin\TransWebApplication.dll.config
+E:\vs Projects\TransWebApplication\TransWebApplication\bin\TransWebApplication.dll
+E:\vs Projects\TransWebApplication\TransWebApplication\bin\TransWebApplication.pdb
+E:\vs Projects\TransWebApplication\TransWebApplication\obj\Release\TransWebApplication.dll
+E:\vs Projects\TransWebApplication\TransWebApplication\obj\Release\TransWebApplication.pdb

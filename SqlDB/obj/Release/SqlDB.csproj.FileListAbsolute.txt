@@ -1,0 +1,63 @@
+F:\code\MS\CSharp\IMWebApplication\SqlDB\bin\Release\DBConfig.ini
+F:\code\MS\CSharp\IMWebApplication\SqlDB\bin\Release\SqlDB.dll
+F:\code\MS\CSharp\IMWebApplication\SqlDB\bin\Release\SqlDB.pdb
+F:\code\MS\CSharp\IMWebApplication\SqlDB\bin\Release\ToolsHelper.dll
+F:\code\MS\CSharp\IMWebApplication\SqlDB\bin\Release\NVelocity.dll
+F:\code\MS\CSharp\IMWebApplication\SqlDB\bin\Release\ToolsHelper.pdb
+F:\code\MS\CSharp\IMWebApplication\SqlDB\obj\Release\SqlDB.csprojResolveAssemblyReference.cache
+F:\code\MS\CSharp\IMWebApplication\SqlDB\obj\Release\SqlDB.dll
+F:\code\MS\CSharp\IMWebApplication\SqlDB\obj\Release\SqlDB.pdb
+F:\项目资料\智能医疗\IMWebApplication\SqlDB\bin\Release\DBConfig.ini
+F:\项目资料\智能医疗\IMWebApplication\SqlDB\bin\Release\SqlDB.dll
+F:\项目资料\智能医疗\IMWebApplication\SqlDB\bin\Release\SqlDB.pdb
+F:\项目资料\智能医疗\IMWebApplication\SqlDB\bin\Release\ToolsHelper.dll
+F:\项目资料\智能医疗\IMWebApplication\SqlDB\bin\Release\NVelocity.dll
+F:\项目资料\智能医疗\IMWebApplication\SqlDB\bin\Release\ToolsHelper.pdb
+F:\项目资料\智能医疗\IMWebApplication\SqlDB\obj\Release\SqlDB.csprojResolveAssemblyReference.cache
+F:\项目资料\智能医疗\IMWebApplication\SqlDB\obj\Release\SqlDB.dll
+F:\项目资料\智能医疗\IMWebApplication\SqlDB\obj\Release\SqlDB.pdb
+D:\Library\Desktop\IMWebApplication\SqlDB\bin\Release\DBConfig.ini
+D:\Library\Desktop\IMWebApplication\SqlDB\bin\Release\SqlDB.dll
+D:\Library\Desktop\IMWebApplication\SqlDB\bin\Release\SqlDB.pdb
+D:\Library\Desktop\IMWebApplication\SqlDB\bin\Release\ToolsHelper.dll
+D:\Library\Desktop\IMWebApplication\SqlDB\bin\Release\NVelocity.dll
+D:\Library\Desktop\IMWebApplication\SqlDB\bin\Release\ToolsHelper.pdb
+D:\Library\Desktop\IMWebApplication\SqlDB\obj\Release\SqlDB.csprojResolveAssemblyReference.cache
+D:\Library\Desktop\IMWebApplication\SqlDB\obj\Release\SqlDB.dll
+D:\Library\Desktop\IMWebApplication\SqlDB\obj\Release\SqlDB.pdb
+C:\Users\siki\Desktop\SHWebApplication\SqlDB\bin\Release\DBConfig.ini
+C:\Users\siki\Desktop\SHWebApplication\SqlDB\bin\Release\SqlDB.dll
+C:\Users\siki\Desktop\SHWebApplication\SqlDB\bin\Release\SqlDB.pdb
+C:\Users\siki\Desktop\SHWebApplication\SqlDB\bin\Release\ToolsHelper.dll
+C:\Users\siki\Desktop\SHWebApplication\SqlDB\bin\Release\NVelocity.dll
+C:\Users\siki\Desktop\SHWebApplication\SqlDB\bin\Release\ToolsHelper.pdb
+C:\Users\siki\Desktop\SHWebApplication\SqlDB\obj\Release\SqlDB.csprojResolveAssemblyReference.cache
+C:\Users\siki\Desktop\SHWebApplication\SqlDB\obj\Release\SqlDB.dll
+C:\Users\siki\Desktop\SHWebApplication\SqlDB\obj\Release\SqlDB.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SqlDB\bin\Release\DBConfig.ini
+C:\Users\siki\Desktop\SHWebApplication - 副本\SqlDB\bin\Release\SqlDB.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SqlDB\bin\Release\SqlDB.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SqlDB\bin\Release\ToolsHelper.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SqlDB\bin\Release\NVelocity.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SqlDB\bin\Release\ToolsHelper.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SqlDB\obj\Release\SqlDB.csprojResolveAssemblyReference.cache
+C:\Users\siki\Desktop\SHWebApplication - 副本\SqlDB\obj\Release\SqlDB.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SqlDB\obj\Release\SqlDB.pdb
+C:\Users\siki\Desktop\WXWebApplication\SqlDB\bin\Release\DBConfig.ini
+C:\Users\siki\Desktop\WXWebApplication\SqlDB\bin\Release\SqlDB.dll
+C:\Users\siki\Desktop\WXWebApplication\SqlDB\bin\Release\SqlDB.pdb
+C:\Users\siki\Desktop\WXWebApplication\SqlDB\bin\Release\ToolsHelper.dll
+C:\Users\siki\Desktop\WXWebApplication\SqlDB\bin\Release\NVelocity.dll
+C:\Users\siki\Desktop\WXWebApplication\SqlDB\bin\Release\ToolsHelper.pdb
+C:\Users\siki\Desktop\WXWebApplication\SqlDB\obj\Release\SqlDB.csprojResolveAssemblyReference.cache
+C:\Users\siki\Desktop\WXWebApplication\SqlDB\obj\Release\SqlDB.dll
+C:\Users\siki\Desktop\WXWebApplication\SqlDB\obj\Release\SqlDB.pdb
+E:\GitHub\WXWebApplication\SqlDB\bin\Release\DBConfig.ini
+E:\GitHub\WXWebApplication\SqlDB\bin\Release\SqlDB.dll
+E:\GitHub\WXWebApplication\SqlDB\bin\Release\SqlDB.pdb
+E:\GitHub\WXWebApplication\SqlDB\bin\Release\ToolsHelper.dll
+E:\GitHub\WXWebApplication\SqlDB\bin\Release\NVelocity.dll
+E:\GitHub\WXWebApplication\SqlDB\bin\Release\ToolsHelper.pdb
+E:\GitHub\WXWebApplication\SqlDB\obj\Release\SqlDB.csprojResolveAssemblyReference.cache
+E:\GitHub\WXWebApplication\SqlDB\obj\Release\SqlDB.dll
+E:\GitHub\WXWebApplication\SqlDB\obj\Release\SqlDB.pdb

@@ -1,0 +1,18 @@
+E:\visual studio Projects\TransWebApplication\TransWebApplication\bin\TransWebApplication.dll.config
+E:\visual studio Projects\TransWebApplication\TransWebApplication\bin\TransWebApplication.dll
+E:\visual studio Projects\TransWebApplication\TransWebApplication\bin\TransWebApplication.pdb
+E:\visual studio Projects\TransWebApplication\TransWebApplication\obj\Debug\TransWebApplication.dll
+E:\visual studio Projects\TransWebApplication\TransWebApplication\obj\Debug\TransWebApplication.pdb
+E:\visual studio Projects\TransWebApplication\TransWebApplication\obj\Debug\TransWebApplication.csprojResolveAssemblyReference.cache
+E:\vs Projects\TransWebApplication\TransWebApplication\obj\Debug\TransWebApplication.csprojResolveAssemblyReference.cache
+E:\vs Projects\TransWebApplication\TransWebApplication\obj\Debug\TransWebApplication.dll
+E:\vs Projects\TransWebApplication\TransWebApplication\bin\TransWebApplication.dll.config
+E:\vs Projects\TransWebApplication\TransWebApplication\bin\TransWebApplication.dll
+E:\vs Projects\TransWebApplication\TransWebApplication\bin\TransWebApplication.pdb
+E:\vs Projects\TransWebApplication\TransWebApplication\obj\Debug\TransWebApplication.pdb
+D:\Library\Desktop\TransWebApplication\TransWebApplication\bin\TransWebApplication.dll.config
+D:\Library\Desktop\TransWebApplication\TransWebApplication\bin\TransWebApplication.dll
+D:\Library\Desktop\TransWebApplication\TransWebApplication\bin\TransWebApplication.pdb
+D:\Library\Desktop\TransWebApplication\TransWebApplication\obj\Debug\TransWebApplication.csprojResolveAssemblyReference.cache
+D:\Library\Desktop\TransWebApplication\TransWebApplication\obj\Debug\TransWebApplication.dll
+D:\Library\Desktop\TransWebApplication\TransWebApplication\obj\Debug\TransWebApplication.pdb

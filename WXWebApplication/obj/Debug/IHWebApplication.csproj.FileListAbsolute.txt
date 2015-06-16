@@ -1,0 +1,17 @@
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\IHWebApplication.dll.config
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\IHWebApplication.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\IHWebApplication.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\obj\Debug\IHWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\obj\Debug\IHWebApplication.IHWebService.resources
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\obj\Debug\IHWebApplication.csproj.GenerateResource.Cache
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\obj\Debug\IHWebApplication.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\obj\Debug\IHWebApplication.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\IHDbVisit.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\IHModel.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\SqlDB.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\ToolsHelper.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\NVelocity.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\IHDbVisit.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\IHModel.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\SqlDB.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\ToolsHelper.pdb

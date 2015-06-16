@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\siki\Desktop\weixin</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Admin/admin.ashx">
+      <publishTime>06/01/2015 10:16:06</publishTime>
+    </File>
+    <File Include="Admin/log.ashx">
+      <publishTime>06/01/2015 10:16:06</publishTime>
+    </File>
+    <File Include="Admin/login.ashx">
+      <publishTime>06/01/2015 10:16:06</publishTime>
+    </File>
+    <File Include="Admin/nodeinfo.ashx">
+      <publishTime>06/01/2015 10:16:06</publishTime>
+    </File>
+    <File Include="Admin/users.ashx">
+      <publishTime>06/01/2015 10:16:06</publishTime>
+    </File>
+    <File Include="bin/DBConfig.ini">
+      <publishTime>06/01/2015 10:55:28</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>07/24/2014 15:41:08</publishTime>
+    </File>
+    <File Include="bin/NVelocity.dll">
+      <publishTime>06/05/2014 19:31:41</publishTime>
+    </File>
+    <File Include="bin/SHDbVisit.dll">
+      <publishTime>04/25/2015 10:02:40</publishTime>
+    </File>
+    <File Include="bin/SHModel.dll">
+      <publishTime>01/08/2015 10:03:51</publishTime>
+    </File>
+    <File Include="bin/SHWebApplication.dll">
+      <publishTime>04/25/2015 17:48:50</publishTime>
+    </File>
+    <File Include="bin/SqlDB.dll">
+      <publishTime>06/03/2015 13:31:53</publishTime>
+    </File>
+    <File Include="bin/ToolsHelper.dll">
+      <publishTime>06/01/2015 13:20:24</publishTime>
+    </File>
+    <File Include="bin/TransWebApplication.dll">
+      <publishTime>11/13/2014 15:40:39</publishTime>
+    </File>
+    <File Include="bin/WXDbVisit.dll">
+      <publishTime>06/12/2015 15:47:04</publishTime>
+    </File>
+    <File Include="bin/WXModel.dll">
+      <publishTime>06/03/2015 13:31:53</publishTime>
+    </File>
+    <File Include="bin/WXWebApplication.dll">
+      <publishTime>06/15/2015 09:17:25</publishTime>
+    </File>
+    <File Include="clitoser.txt">
+      <publishTime>10/23/2014 10:46:02</publishTime>
+    </File>
+    <File Include="css/Descr.WD3">
+      <publishTime>03/06/2013 15:58:31</publishTime>
+    </File>
+    <File Include="css/dropzone.css">
+      <publishTime>03/06/2013 15:58:14</publishTime>
+    </File>
+    <File Include="css/ie.css">
+      <publishTime>03/06/2013 15:57:58</publishTime>
+    </File>
+    <File Include="css/jquery-ui.css">
+      <publishTime>12/11/2014 10:58:01</publishTime>
+    </File>
+    <File Include="css/login.css">
+      <publishTime>12/16/2014 16:54:52</publishTime>
+    </File>
+    <File Include="css/lt-ie-9.css">
+      <publishTime>03/06/2013 15:58:02</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>01/09/2015 16:50:48</publishTime>
+    </File>
+    <File Include="css/ui.css">
+      <publishTime>03/06/2013 15:58:31</publishTime>
+    </File>
+    <File Include="css/wysiwyg.css">
+      <publishTime>03/06/2013 15:58:15</publishTime>
+    </File>
+    <File Include="DBConfig.ini">
+      <publishTime>06/01/2015 10:55:28</publishTime>
+    </File>
+    <File Include="dropzone/deps/emitter/Descr.WD3">
+      <publishTime>03/06/2013 15:58:58</publishTime>
+    </File>
+    <File Include="dropzone/deps/emitter/index.js">
+      <publishTime>03/06/2013 15:58:58</publishTime>
+    </File>
+    <File Include="dropzone/Descr.WD3">
+      <publishTime>03/06/2013 15:58:59</publishTime>
+    </File>
+    <File Include="dropzone/index.js">
+      <publishTime>03/06/2013 15:58:59</publishTime>
+    </File>
+    <File Include="dropzone/lib/Descr.WD3">
+      <publishTime>03/06/2013 15:58:59</publishTime>
+    </File>
+    <File Include="dropzone/lib/dropzone.js">
+      <publishTime>03/06/2013 15:58:59</publishTime>
+    </File>
+    <File Include="html/blog-new.html">
+      <publishTime>12/11/2014 11:37:10</publishTime>
+    </File>
+    <File Include="html/blog-table.html">
+      <publishTime>12/11/2014 11:37:10</publishTime>
+    </File>
+    <File Include="html/blog-timeline.html">
+      <publishTime>01/09/2015 17:23:17</publishTime>
+    </File>
+    <File Include="html/comments-timeline.html">
+      <publishTime>12/11/2014 11:37:10</publishTime>
+    </File>
+    <File Include="html/dashboard.html">
+      <publishTime>01/22/2015 17:51:42</publishTime>
+    </File>
+    <File Include="html/files-upload.html">
+      <publishTime>12/11/2014 11:37:10</publishTime>
+    </File>
+    <File Include="html/files.html">
+      <publishTime>01/13/2015 11:39:31</publishTime>
+    </File>
+    <File Include="html/icon-fonts.html">
+      <publishTime>12/11/2014 11:37:10</publishTime>
+    </File>
+    <File Include="html/index.html">
+      <publishTime>12/12/2014 14:02:41</publishTime>
+    </File>
+    <File Include="html/log-timeline.html">
+      <publishTime>01/22/2015 18:06:40</publishTime>
+    </File>
+    <File Include="html/login.html">
+      <publishTime>12/18/2014 17:08:59</publishTime>
+    </File>
+    <File Include="html/newuser.html">
+      <publishTime>01/13/2015 11:39:31</publishTime>
+    </File>
+    <File Include="html/page-new.html">
+      <publishTime>12/11/2014 11:37:10</publishTime>
+    </File>
+    <File Include="html/page-timeline.html">
+      <publishTime>12/11/2014 11:37:10</publishTime>
+    </File>
+    <File Include="html/pages-table.html">
+      <publishTime>01/22/2015 18:06:40</publishTime>
+    </File>
+    <File Include="html/statistics.html">
+      <publishTime>01/13/2015 09:58:43</publishTime>
+    </File>
+    <File Include="html/ui-elements.html">
+      <publishTime>12/11/2014 11:37:10</publishTime>
+    </File>
+    <File Include="html/users.html">
+      <publishTime>01/09/2015 17:23:17</publishTime>
+    </File>
+    <File Include="images/1.jpg">
+      <publishTime>12/29/2014 08:53:34</publishTime>
+    </File>
+    <File Include="images/10.jpg">
+      <publishTime>12/29/2014 09:12:33</publishTime>
+    </File>
+    <File Include="images/11.jpg">
+      <publishTime>12/29/2014 09:13:56</publishTime>
+    </File>
+    <File Include="images/2.jpg">
+      <publishTime>12/29/2014 08:53:54</publishTime>
+    </File>
+    <File Include="images/3.jpg">
+      <publishTime>12/29/2014 08:55:17</publishTime>
+    </File>
+    <File Include="images/4.jpg">
+      <publishTime>12/29/2014 08:55:36</publishTime>
+    </File>
+    <File Include="images/5.jpg">
+      <publishTime>12/29/2014 08:57:05</publishTime>
+    </File>
+    <File Include="images/6.jpg">
+      <publishTime>12/29/2014 08:57:21</publishTime>
+    </File>
+    <File Include="images/7.jpg">
+      <publishTime>12/29/2014 08:57:39</publishTime>
+    </File>
+    <File Include="images/8.jpg">
+      <publishTime>12/29/2014 08:57:59</publishTime>
+    </File>
+    <File Include="images/9.jpg">
+      <publishTime>12/29/2014 09:12:03</publishTime>
+    </File>
+    <File Include="images/asc.gif">
+      <publishTime>03/06/2013 15:58:16</publishTime>
+    </File>
+    <File Include="images/bg.gif">
+      <publishTime>03/06/2013 15:58:17</publishTime>
+    </File>
+    <File Include="images/check-big.png">
+      <publishTime>03/06/2013 15:58:34</publishTime>
+    </File>
+    <File Include="images/check-small.png">
+      <publishTime>03/06/2013 15:58:36</publishTime>
+    </File>
+    <File Include="images/checkbox-retina.png">
+      <publishTime>03/06/2013 15:58:19</publishTime>
+    </File>
+    <File Include="images/checkbox.png">
+      <publishTime>03/06/2013 15:58:18</publishTime>
+    </File>
+    <File Include="images/desc.gif">
+      <publishTime>03/06/2013 15:58:18</publishTime>
+    </File>
+    <File Include="images/Descr.WD3">
+      <publishTime>03/06/2013 15:58:58</publishTime>
+    </File>
+    <File Include="images/dropzone-retina.png">
+      <publishTime>03/06/2013 15:58:56</publishTime>
+    </File>
+    <File Include="images/dropzone.png">
+      <publishTime>03/06/2013 15:58:56</publishTime>
+    </File>
+    <File Include="images/empty.png">
+      <publishTime>03/06/2013 15:58:20</publishTime>
+    </File>
+    <File Include="images/index_bak2.png">
+      <publishTime>12/17/2014 15:18:22</publishTime>
+    </File>
+    <File Include="images/jquery.wysiwyg-retina.png">
+      <publishTime>03/06/2013 15:58:20</publishTime>
+    </File>
+    <File Include="images/jquery.wysiwyg.png">
+      <publishTime>03/06/2013 15:58:19</publishTime>
+    </File>
+    <File Include="images/light/cfoff.png">
+      <publishTime>11/14/2014 14:36:56</publishTime>
+    </File>
+    <File Include="images/light/cfon.png">
+      <publishTime>11/14/2014 14:30:41</publishTime>
+    </File>
+    <File Include="images/light/dtoff.png">
+      <publishTime>11/14/2014 14:36:56</publishTime>
+    </File>
+    <File Include="images/light/dton.png">
+      <publishTime>11/14/2014 14:30:41</publishTime>
+    </File>
+    <File Include="images/light/elzwoff.png">
+      <publishTime>11/14/2014 14:36:56</publishTime>
+    </File>
+    <File Include="images/light/elzwon.png">
+      <publishTime>11/14/2014 14:30:41</publishTime>
+    </File>
+    <File Include="images/light/ltoff.png">
+      <publishTime>11/14/2014 14:36:56</publishTime>
+    </File>
+    <File Include="images/light/lton.png">
+      <publishTime>11/14/2014 14:30:41</publishTime>
+    </File>
+    <File Include="images/light/mdgkz.png">
+      <publishTime>11/14/2014 14:16:17</publishTime>
+    </File>
+    <File Include="images/light/sfoff.png">
+      <publishTime>11/14/2014 14:36:56</publishTime>
+    </File>
+    <File Include="images/light/sfon.png">
+      <publishTime>11/14/2014 14:30:41</publishTime>
+    </File>
+    <File Include="images/light/Thumbs.db">
+      <publishTime>12/29/2014 08:52:52</publishTime>
+    </File>
+    <File Include="images/light/ylzwoff.png">
+      <publishTime>11/14/2014 14:36:56</publishTime>
+    </File>
+    <File Include="images/light/ylzwon.png">
+      <publishTime>11/14/2014 14:30:41</publishTime>
+    </File>
+    <File Include="images/loading-retina.gif">
+      <publishTime>03/06/2013 15:58:24</publishTime>
+    </File>
+    <File Include="images/loading.gif">
+      <publishTime>03/06/2013 15:58:21</publishTime>
+    </File>
+    <File Include="images/mobile-dashboard.png">
+      <publishTime>03/06/2013 15:58:20</publishTime>
+    </File>
+    <File Include="images/mobile-stats.png">
+      <publishTime>03/06/2013 15:58:20</publishTime>
+    </File>
+    <File Include="images/pic.jpg">
+      <publishTime>07/24/2014 15:41:10</publishTime>
+    </File>
+    <File Include="images/spritemap.png">
+      <publishTime>03/06/2013 15:58:55</publishTime>
+    </File>
+    <File Include="images/spritemap_402x.png">
+      <publishTime>03/06/2013 15:58:58</publishTime>
+    </File>
+    <File Include="images/Thumbs.db">
+      <publishTime>12/12/2014 16:43:22</publishTime>
+    </File>
+    <File Include="images/uiface1.png">
+      <publishTime>03/06/2013 15:58:30</publishTime>
+    </File>
+    <File Include="images/uiface2.png">
+      <publishTime>03/06/2013 15:58:03</publishTime>
+    </File>
+    <File Include="images/uiface3.png">
+      <publishTime>03/06/2013 15:58:30</publishTime>
+    </File>
+    <File Include="images/uiface4.png">
+      <publishTime>03/06/2013 15:58:30</publishTime>
+    </File>
+    <File Include="images/vcard_add.png">
+      <publishTime>12/30/2014 09:41:48</publishTime>
+    </File>
+    <File Include="images/_16.png">
+      <publishTime>03/06/2013 15:58:34</publishTime>
+    </File>
+    <File Include="images/_32.png">
+      <publishTime>03/06/2013 15:58:33</publishTime>
+    </File>
+    <File Include="images/_counter.png">
+      <publishTime>03/06/2013 15:58:33</publishTime>
+    </File>
+    <File Include="images/_counter2.png">
+      <publishTime>03/06/2013 15:58:35</publishTime>
+    </File>
+    <File Include="images/_z.jpg">
+      <publishTime>03/06/2013 15:59:26</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>12/29/2014 18:13:24</publishTime>
+    </File>
+    <File Include="InterfaceWeiXin.ashx">
+      <publishTime>06/01/2015 10:16:06</publishTime>
+    </File>
+    <File Include="js/ajax.js">
+      <publishTime>12/04/2014 10:04:36</publishTime>
+    </File>
+    <File Include="js/custom.js">
+      <publishTime>12/18/2014 16:57:46</publishTime>
+    </File>
+    <File Include="js/cycle.js">
+      <publishTime>03/06/2013 15:58:06</publishTime>
+    </File>
+    <File Include="js/Descr.WD3">
+      <publishTime>03/06/2013 15:58:17</publishTime>
+    </File>
+    <File Include="js/dropzone.js">
+      <publishTime>03/06/2013 15:58:17</publishTime>
+    </File>
+    <File Include="js/flot-graphs.js">
+      <publishTime>02/03/2015 15:29:57</publishTime>
+    </File>
+    <File Include="js/flot-pie.js">
+      <publishTime>03/06/2013 15:58:05</publishTime>
+    </File>
+    <File Include="js/flot-time.js">
+      <publishTime>03/06/2013 15:58:06</publishTime>
+    </File>
+    <File Include="js/flot.js">
+      <publishTime>03/06/2013 15:58:10</publishTime>
+    </File>
+    <File Include="js/flot.resize.js">
+      <publishTime>03/06/2013 15:58:03</publishTime>
+    </File>
+    <File Include="js/jquery-ui.js">
+      <publishTime>12/11/2014 10:57:54</publishTime>
+    </File>
+    <File Include="js/jquery.checkbox.min.js">
+      <publishTime>03/06/2013 15:58:05</publishTime>
+    </File>
+    <File Include="js/jquery.tablesorter.min.js">
+      <publishTime>03/06/2013 15:58:07</publishTime>
+    </File>
+    <File Include="js/jquery.wysiwyg.js">
+      <publishTime>03/06/2013 15:58:10</publishTime>
+    </File>
+    <File Include="js/wysiwyg.image.js">
+      <publishTime>03/06/2013 15:58:38</publishTime>
+    </File>
+    <File Include="js/wysiwyg.link.js">
+      <publishTime>03/06/2013 15:58:38</publishTime>
+    </File>
+    <File Include="js/wysiwyg.table.js">
+      <publishTime>03/06/2013 15:58:38</publishTime>
+    </File>
+    <File Include="lib/Descr.WD3">
+      <publishTime>03/06/2013 15:58:59</publishTime>
+    </File>
+    <File Include="lib/dropzone.js">
+      <publishTime>03/06/2013 15:58:59</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/04/2015 23:03:09</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>06/15/2015 09:17:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.1.js">
+      <publishTime>12/03/2014 15:59:50</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.1.min.js">
+      <publishTime>12/03/2014 15:59:50</publishTime>
+    </File>
+    <File Include="sertocli.txt">
+      <publishTime>10/23/2014 10:45:52</publishTime>
+    </File>
+    <File Include="SHWebService.asmx">
+      <publishTime>12/04/2014 10:09:50</publishTime>
+    </File>
+    <File Include="themes/klevermedia/css/Descr.WD3">
+      <publishTime>03/06/2013 16:00:01</publishTime>
+    </File>
+    <File Include="themes/klevermedia/css/ie7.css">
+      <publishTime>03/06/2013 15:59:59</publishTime>
+    </File>
+    <File Include="themes/klevermedia/css/ie8.css">
+      <publishTime>03/06/2013 16:00:01</publishTime>
+    </File>
+    <File Include="themes/klevermedia/css/style.css">
+      <publishTime>03/06/2013 16:00:00</publishTime>
+    </File>
+    <File Include="themes/klevermedia/images/broken.png">
+      <publishTime>03/06/2013 16:00:01</publishTime>
+    </File>
+    <File Include="themes/klevermedia/images/Descr.WD3">
+      <publishTime>03/06/2013 16:00:02</publishTime>
+    </File>
+    <File Include="themes/klevermedia/images/favicon.ico">
+      <publishTime>03/06/2013 16:00:02</publishTime>
+    </File>
+    <File Include="themes/klevermedia/images/twitter.png">
+      <publishTime>03/06/2013 16:00:00</publishTime>
+    </File>
+    <File Include="themes/klevermedia/js/Descr.WD3">
+      <publishTime>03/06/2013 16:00:02</publishTime>
+    </File>
+    <File Include="themes/klevermedia/js/jQuery.js">
+      <publishTime>03/06/2013 16:00:01</publishTime>
+    </File>
+    <File Include="themes/klevermedia/js/twitterFeed.js">
+      <publishTime>03/06/2013 16:00:02</publishTime>
+    </File>
+    <File Include="TransWebService.asmx">
+      <publishTime>10/22/2014 09:29:09</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/15/2015 09:17:27</publishTime>
+    </File>
+    <File Include="WXWebService.asmx">
+      <publishTime>06/01/2015 10:23:27</publishTime>
+    </File>
+    <File Include="_40font-face/Descr.WD3">
+      <publishTime>03/06/2013 15:58:19</publishTime>
+    </File>
+    <File Include="_40font-face/entypo.eot">
+      <publishTime>03/06/2013 15:58:19</publishTime>
+    </File>
+    <File Include="_40font-face/entypo.eot%40">
+      <publishTime>03/06/2013 15:58:15</publishTime>
+    </File>
+    <File Include="_40font-face/entypo.svg">
+      <publishTime>03/06/2013 15:58:15</publishTime>
+    </File>
+    <File Include="_40font-face/entypo.ttf">
+      <publishTime>03/06/2013 15:58:19</publishTime>
+    </File>
+    <File Include="_40font-face/entypo.woff">
+      <publishTime>03/06/2013 15:58:19</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

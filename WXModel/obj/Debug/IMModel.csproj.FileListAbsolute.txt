@@ -1,0 +1,4 @@
+F:\code\MS\CSharp\IMWebApplication\IMModel\bin\Debug\IMModel.dll
+F:\code\MS\CSharp\IMWebApplication\IMModel\bin\Debug\IMModel.pdb
+F:\code\MS\CSharp\IMWebApplication\IMModel\obj\Debug\IMModel.dll
+F:\code\MS\CSharp\IMWebApplication\IMModel\obj\Debug\IMModel.pdb

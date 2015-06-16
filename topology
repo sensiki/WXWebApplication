@@ -1,0 +1,71 @@
+{
+   "button" : [
+      {
+         "name" : "状态",
+         "sub_button" : [
+            {
+               "key" : "ZigBee",
+               "name" : "ZigBee",
+               "type" : "click"
+            },
+            {
+               "key" : "WiFi",
+               "name" : "WiFi",
+               "type" : "click"
+            },
+            {
+               "key" : "Bluetooth",
+               "name" : "Bluetooth",
+               "type" : "click"
+            },
+            {
+               "key" : "IPv6",
+               "name" : "IPv6",
+               "type" : "click"
+            },
+            {
+               "key" : "Android",
+               "name" : "Android",
+               "type" : "click"
+            }
+         ]
+      },
+      {
+         "name" : "控制",
+         "sub_button" : [
+            {
+               "key" : "Light",
+               "name" : "板载-灯",
+               "type" : "click"
+            },
+            {
+               "key" : "Zigbee_Fan",
+               "name" : "Zigbee-风扇",
+               "type" : "click"
+            },
+            {
+               "key" : "IPv6_Relay",
+               "name" : "IPv6-继电器",
+               "type" : "click"
+            },
+            {
+               "key" : "Bluetooth_Buzzer",
+               "name" : "Bluetooth-蜂鸣器",
+               "type" : "click"
+            }
+         ]
+      },
+      {
+         "name" : "其它",
+         "sub_button" : [
+            {
+               "type": "scancode_push", 
+               "name": "绑定设备", 
+               "key": "rselfmenu_0_1", 
+               "sub_button": [ ]
+            }
+
+         ]
+      }
+   ]
+}

@@ -1,0 +1,13 @@
+F:\code\MS\CSharp\IMWebApplication\IMModel\bin\Release\IMModel.dll
+F:\code\MS\CSharp\IMWebApplication\IMModel\bin\Release\IMModel.pdb
+F:\code\MS\CSharp\IMWebApplication\IMModel\obj\Release\IMModel.dll
+F:\code\MS\CSharp\IMWebApplication\IMModel\obj\Release\IMModel.pdb
+F:\项目资料\智能医疗\IMWebApplication\IMModel\bin\Release\IMModel.dll
+F:\项目资料\智能医疗\IMWebApplication\IMModel\bin\Release\IMModel.pdb
+F:\项目资料\智能医疗\IMWebApplication\IMModel\obj\Release\IMModel.dll
+F:\项目资料\智能医疗\IMWebApplication\IMModel\obj\Release\IMModel.pdb
+D:\Library\Desktop\IMWebApplication\IMModel\bin\Release\IMModel.dll
+D:\Library\Desktop\IMWebApplication\IMModel\bin\Release\IMModel.pdb
+D:\Library\Desktop\IMWebApplication\IMModel\obj\Release\IMModel.csprojResolveAssemblyReference.cache
+D:\Library\Desktop\IMWebApplication\IMModel\obj\Release\IMModel.dll
+D:\Library\Desktop\IMWebApplication\IMModel\obj\Release\IMModel.pdb

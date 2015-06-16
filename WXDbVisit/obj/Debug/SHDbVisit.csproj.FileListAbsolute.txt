@@ -1,0 +1,52 @@
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\obj\Debug\SHDbVisit.csprojResolveAssemblyReference.cache
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\DBConfig.ini
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\SHDbVisit.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\SHDbVisit.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\IHModel.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\SqlDB.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\ToolsHelper.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\NVelocity.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\IHModel.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\SqlDB.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\ToolsHelper.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\obj\Debug\SHDbVisit.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\obj\Debug\SHDbVisit.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHDbVisit\bin\Debug\DBConfig.ini
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHDbVisit\bin\Debug\SHDbVisit.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHDbVisit\bin\Debug\SHDbVisit.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHDbVisit\bin\Debug\SHModel.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHDbVisit\bin\Debug\SqlDB.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHDbVisit\bin\Debug\ToolsHelper.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHDbVisit\bin\Debug\NVelocity.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHDbVisit\bin\Debug\SHModel.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHDbVisit\bin\Debug\SqlDB.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHDbVisit\bin\Debug\ToolsHelper.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHDbVisit\obj\Debug\SHDbVisit.csprojResolveAssemblyReference.cache
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHDbVisit\obj\Debug\SHDbVisit.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHDbVisit\obj\Debug\SHDbVisit.pdb
+C:\Users\siki\Desktop\SHWebApplication2\SHDbVisit\bin\Debug\DBConfig.ini
+C:\Users\siki\Desktop\SHWebApplication2\SHDbVisit\bin\Debug\SHDbVisit.dll
+C:\Users\siki\Desktop\SHWebApplication2\SHDbVisit\bin\Debug\SHDbVisit.pdb
+C:\Users\siki\Desktop\SHWebApplication2\SHDbVisit\bin\Debug\SHModel.dll
+C:\Users\siki\Desktop\SHWebApplication2\SHDbVisit\bin\Debug\SqlDB.dll
+C:\Users\siki\Desktop\SHWebApplication2\SHDbVisit\bin\Debug\ToolsHelper.dll
+C:\Users\siki\Desktop\SHWebApplication2\SHDbVisit\bin\Debug\NVelocity.dll
+C:\Users\siki\Desktop\SHWebApplication2\SHDbVisit\bin\Debug\SHModel.pdb
+C:\Users\siki\Desktop\SHWebApplication2\SHDbVisit\bin\Debug\SqlDB.pdb
+C:\Users\siki\Desktop\SHWebApplication2\SHDbVisit\bin\Debug\ToolsHelper.pdb
+C:\Users\siki\Desktop\SHWebApplication2\SHDbVisit\obj\Debug\SHDbVisit.csprojResolveAssemblyReference.cache
+C:\Users\siki\Desktop\SHWebApplication2\SHDbVisit\obj\Debug\SHDbVisit.dll
+C:\Users\siki\Desktop\SHWebApplication2\SHDbVisit\obj\Debug\SHDbVisit.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Debug\DBConfig.ini
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Debug\SHDbVisit.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Debug\SHDbVisit.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Debug\SHModel.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Debug\SqlDB.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Debug\ToolsHelper.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Debug\NVelocity.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Debug\SHModel.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Debug\SqlDB.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\bin\Debug\ToolsHelper.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\obj\Debug\SHDbVisit.csprojResolveAssemblyReference.cache
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\obj\Debug\SHDbVisit.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHDbVisit\obj\Debug\SHDbVisit.pdb

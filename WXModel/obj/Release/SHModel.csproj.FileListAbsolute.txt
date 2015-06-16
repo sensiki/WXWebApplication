@@ -1,0 +1,10 @@
+C:\Users\siki\Desktop\SHWebApplication\SHModel\bin\Release\SHModel.dll
+C:\Users\siki\Desktop\SHWebApplication\SHModel\bin\Release\SHModel.pdb
+C:\Users\siki\Desktop\SHWebApplication\SHModel\obj\Release\SHModel.csprojResolveAssemblyReference.cache
+C:\Users\siki\Desktop\SHWebApplication\SHModel\obj\Release\SHModel.dll
+C:\Users\siki\Desktop\SHWebApplication\SHModel\obj\Release\SHModel.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHModel\bin\Release\SHModel.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHModel\bin\Release\SHModel.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHModel\obj\Release\SHModel.csprojResolveAssemblyReference.cache
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHModel\obj\Release\SHModel.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHModel\obj\Release\SHModel.pdb

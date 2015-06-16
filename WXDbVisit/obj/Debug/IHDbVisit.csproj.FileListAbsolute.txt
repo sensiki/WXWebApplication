@@ -1,0 +1,13 @@
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\obj\Debug\IHDbVisit.csprojResolveAssemblyReference.cache
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\DBConfig.ini
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\IHDbVisit.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\IHDbVisit.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\IHModel.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\SqlDB.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\ToolsHelper.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\NVelocity.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\IHModel.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\SqlDB.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\bin\Debug\ToolsHelper.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\obj\Debug\IHDbVisit.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHDbVisit\obj\Debug\IHDbVisit.pdb

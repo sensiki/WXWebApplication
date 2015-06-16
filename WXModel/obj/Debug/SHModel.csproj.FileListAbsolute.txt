@@ -1,0 +1,18 @@
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHModel\bin\Debug\IHModel.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHModel\bin\Debug\IHModel.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHModel\obj\Debug\IHModel.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHModel\obj\Debug\IHModel.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHModel\bin\Debug\SHModel.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHModel\bin\Debug\SHModel.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHModel\obj\Debug\SHModel.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHModel\obj\Debug\SHModel.pdb
+C:\Users\siki\Desktop\SHWebApplication2\SHModel\bin\Debug\SHModel.dll
+C:\Users\siki\Desktop\SHWebApplication2\SHModel\bin\Debug\SHModel.pdb
+C:\Users\siki\Desktop\SHWebApplication2\SHModel\obj\Debug\SHModel.csprojResolveAssemblyReference.cache
+C:\Users\siki\Desktop\SHWebApplication2\SHModel\obj\Debug\SHModel.dll
+C:\Users\siki\Desktop\SHWebApplication2\SHModel\obj\Debug\SHModel.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHModel\bin\Debug\SHModel.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHModel\bin\Debug\SHModel.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHModel\obj\Debug\SHModel.csprojResolveAssemblyReference.cache
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHModel\obj\Debug\SHModel.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHModel\obj\Debug\SHModel.pdb

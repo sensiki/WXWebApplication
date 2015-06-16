@@ -1,0 +1,59 @@
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\obj\Debug\SHWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\obj\Debug\IHWebApplication.IHWebService.resources
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\obj\Debug\SHWebApplication.csproj.GenerateResource.Cache
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\obj\Debug\IHWebApplication.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\obj\Debug\IHWebApplication.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\DBConfig.ini
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\IHWebApplication.dll.config
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\IHWebApplication.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\IHWebApplication.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\IHModel.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\SHDbVisit.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\SqlDB.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\ToolsHelper.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\NVelocity.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\SHDbVisit.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\IHModel.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\SqlDB.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\IHWebApplication\bin\ToolsHelper.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHWebApplication\bin\SHWebApplication.dll.config
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHWebApplication\bin\SHWebApplication.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHWebApplication\bin\SHWebApplication.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHWebApplication\bin\SHDbVisit.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHWebApplication\bin\SHModel.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHWebApplication\bin\SqlDB.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHWebApplication\bin\ToolsHelper.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHWebApplication\bin\NVelocity.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHWebApplication\bin\SHDbVisit.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHWebApplication\bin\SHModel.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHWebApplication\bin\SqlDB.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHWebApplication\bin\ToolsHelper.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHWebApplication\obj\Debug\SHWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHWebApplication\obj\Debug\SHWebApplication.SHWebService.resources
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHWebApplication\obj\Debug\SHWebApplication.csproj.GenerateResource.Cache
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHWebApplication\obj\Debug\SHWebApplication.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SHWebApplication\obj\Debug\SHWebApplication.pdb
+C:\Users\siki\Desktop\SHWebApplication2\SHWebApplication\obj\Debug\SHWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\siki\Desktop\SHWebApplication2\SHWebApplication\obj\Debug\SHWebApplication.SHWebService.resources
+C:\Users\siki\Desktop\SHWebApplication2\SHWebApplication\obj\Debug\SHWebApplication.csproj.GenerateResource.Cache
+C:\Users\siki\Desktop\SHWebApplication2\SHWebApplication\obj\Debug\SHWebApplication.dll
+C:\Users\siki\Desktop\SHWebApplication2\SHWebApplication\obj\Debug\SHWebApplication.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHWebApplication\bin\DBConfig.ini
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHWebApplication\bin\SHWebApplication.dll.config
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHWebApplication\bin\SHWebApplication.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHWebApplication\bin\SHWebApplication.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHWebApplication\bin\Newtonsoft.Json.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHWebApplication\bin\SHDbVisit.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHWebApplication\bin\SHModel.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHWebApplication\bin\SqlDB.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHWebApplication\bin\ToolsHelper.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHWebApplication\bin\NVelocity.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHWebApplication\bin\SHDbVisit.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHWebApplication\bin\SHModel.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHWebApplication\bin\SqlDB.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHWebApplication\bin\ToolsHelper.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHWebApplication\obj\Debug\SHWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHWebApplication\obj\Debug\SHWebApplication.SHWebService.resources
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHWebApplication\obj\Debug\SHWebApplication.csproj.GenerateResource.Cache
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHWebApplication\obj\Debug\SHWebApplication.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SHWebApplication\obj\Debug\SHWebApplication.pdb

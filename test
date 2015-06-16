@@ -1,0 +1,81 @@
+{
+   "button" : [
+      {
+         "name" : "状态",
+         "sub_button" : [
+            {
+               "key" : "Home_Temperature",
+               "name" : "温湿度",
+               "type" : "click"
+            },
+            {
+               "key" : "Home_Intensity",
+               "name" : "光强",
+               "type" : "click"
+            },
+            {
+               "key" : "Home_Battery",
+               "name" : "电量",
+               "type" : "click"
+            }
+         ]
+      },
+      {
+         "name" : "灯控制",
+         "sub_button" : [
+            {
+               "key" : "Light_One",
+               "name" : "灯1",
+               "type" : "click"
+            },
+            {
+               "key" : "Light_Two",
+               "name" : "灯2",
+               "type" : "click"
+            },
+            {
+               "key" : "Light_Threa",
+               "name" : "灯3",
+               "type" : "click"
+            },
+            {
+               "key" : "Light_Four",
+               "name" : "灯4",
+               "type" : "click"
+            }
+         ]
+      },
+      {
+         "name" : "其它",
+         "sub_button" : [
+         {
+               "key" : "Buzzer",
+               "name" : "蜂鸣器",
+               "type" : "click"
+            },
+            {
+               "key" : "Relay",
+               "name" : "继电器",
+               "type" : "click"
+            },
+            {
+               "key" : "DC_Motor",
+               "name" : "直流电机",
+               "type" : "click"
+            },
+            {
+               "key" : "Stepper_Motor",
+               "name" : "步进电机",
+               "type" : "click"
+            },
+            {
+               "type": "scancode_push", 
+               "name": "绑定设备", 
+               "key": "rselfmenu_0_1", 
+               "sub_button": [ ]
+            }
+
+         ]
+      }
+   ]
+}

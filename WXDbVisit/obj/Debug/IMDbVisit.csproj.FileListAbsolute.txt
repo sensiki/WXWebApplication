@@ -1,0 +1,13 @@
+F:\code\MS\CSharp\IMWebApplication\IMDbVisit\bin\Debug\DBConfig.ini
+F:\code\MS\CSharp\IMWebApplication\IMDbVisit\bin\Debug\IMDbVisit.dll
+F:\code\MS\CSharp\IMWebApplication\IMDbVisit\bin\Debug\IMDbVisit.pdb
+F:\code\MS\CSharp\IMWebApplication\IMDbVisit\bin\Debug\IMModel.dll
+F:\code\MS\CSharp\IMWebApplication\IMDbVisit\bin\Debug\SqlDB.dll
+F:\code\MS\CSharp\IMWebApplication\IMDbVisit\bin\Debug\ToolsHelper.dll
+F:\code\MS\CSharp\IMWebApplication\IMDbVisit\bin\Debug\NVelocity.dll
+F:\code\MS\CSharp\IMWebApplication\IMDbVisit\bin\Debug\IMModel.pdb
+F:\code\MS\CSharp\IMWebApplication\IMDbVisit\bin\Debug\SqlDB.pdb
+F:\code\MS\CSharp\IMWebApplication\IMDbVisit\bin\Debug\ToolsHelper.pdb
+F:\code\MS\CSharp\IMWebApplication\IMDbVisit\obj\Debug\IMDbVisit.csprojResolveAssemblyReference.cache
+F:\code\MS\CSharp\IMWebApplication\IMDbVisit\obj\Debug\IMDbVisit.dll
+F:\code\MS\CSharp\IMWebApplication\IMDbVisit\obj\Debug\IMDbVisit.pdb

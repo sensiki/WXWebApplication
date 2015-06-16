@@ -1,0 +1,28 @@
+F:\code\MS\CSharp\IMWebApplication\ToolsHelper\bin\Debug\ToolsHelper.dll
+F:\code\MS\CSharp\IMWebApplication\ToolsHelper\bin\Debug\ToolsHelper.pdb
+F:\code\MS\CSharp\IMWebApplication\ToolsHelper\bin\Debug\NVelocity.dll
+F:\code\MS\CSharp\IMWebApplication\ToolsHelper\obj\Debug\ToolsHelper.dll
+F:\code\MS\CSharp\IMWebApplication\ToolsHelper\obj\Debug\ToolsHelper.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\ToolsHelper\bin\Debug\ToolsHelper.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\ToolsHelper\bin\Debug\ToolsHelper.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\ToolsHelper\bin\Debug\NVelocity.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\ToolsHelper\obj\Debug\ToolsHelper.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\ToolsHelper\obj\Debug\ToolsHelper.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\ToolsHelper\bin\Debug\ToolsHelper.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\ToolsHelper\bin\Debug\ToolsHelper.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\ToolsHelper\bin\Debug\NVelocity.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\ToolsHelper\obj\Debug\ToolsHelper.csprojResolveAssemblyReference.cache
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\ToolsHelper\obj\Debug\ToolsHelper.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\ToolsHelper\obj\Debug\ToolsHelper.pdb
+C:\Users\siki\Desktop\SHWebApplication2\ToolsHelper\bin\Debug\ToolsHelper.dll
+C:\Users\siki\Desktop\SHWebApplication2\ToolsHelper\bin\Debug\ToolsHelper.pdb
+C:\Users\siki\Desktop\SHWebApplication2\ToolsHelper\bin\Debug\NVelocity.dll
+C:\Users\siki\Desktop\SHWebApplication2\ToolsHelper\obj\Debug\ToolsHelper.csprojResolveAssemblyReference.cache
+C:\Users\siki\Desktop\SHWebApplication2\ToolsHelper\obj\Debug\ToolsHelper.dll
+C:\Users\siki\Desktop\SHWebApplication2\ToolsHelper\obj\Debug\ToolsHelper.pdb
+C:\Users\siki\Desktop\WXWebApplication\ToolsHelper\bin\Debug\ToolsHelper.dll
+C:\Users\siki\Desktop\WXWebApplication\ToolsHelper\bin\Debug\ToolsHelper.pdb
+C:\Users\siki\Desktop\WXWebApplication\ToolsHelper\bin\Debug\NVelocity.dll
+C:\Users\siki\Desktop\WXWebApplication\ToolsHelper\obj\Debug\ToolsHelper.dll
+C:\Users\siki\Desktop\WXWebApplication\ToolsHelper\obj\Debug\ToolsHelper.pdb
+C:\Users\siki\Desktop\WXWebApplication\ToolsHelper\obj\Debug\ToolsHelper.csprojResolveAssemblyReference.cache

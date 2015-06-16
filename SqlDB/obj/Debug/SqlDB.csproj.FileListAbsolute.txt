@@ -1,0 +1,63 @@
+F:\code\MS\CSharp\IMWebApplication\SqlDB\bin\Debug\DBConfig.ini
+F:\code\MS\CSharp\IMWebApplication\SqlDB\bin\Debug\SqlDB.dll
+F:\code\MS\CSharp\IMWebApplication\SqlDB\bin\Debug\SqlDB.pdb
+F:\code\MS\CSharp\IMWebApplication\SqlDB\bin\Debug\ToolsHelper.dll
+F:\code\MS\CSharp\IMWebApplication\SqlDB\bin\Debug\NVelocity.dll
+F:\code\MS\CSharp\IMWebApplication\SqlDB\bin\Debug\ToolsHelper.pdb
+F:\code\MS\CSharp\IMWebApplication\SqlDB\obj\Debug\SqlDB.csprojResolveAssemblyReference.cache
+F:\code\MS\CSharp\IMWebApplication\SqlDB\obj\Debug\SqlDB.dll
+F:\code\MS\CSharp\IMWebApplication\SqlDB\obj\Debug\SqlDB.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\SqlDB\bin\Debug\DBConfig.ini
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\SqlDB\bin\Debug\SqlDB.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\SqlDB\bin\Debug\SqlDB.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\SqlDB\bin\Debug\ToolsHelper.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\SqlDB\bin\Debug\NVelocity.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\SqlDB\bin\Debug\ToolsHelper.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\SqlDB\obj\Debug\SqlDB.csprojResolveAssemblyReference.cache
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\SqlDB\obj\Debug\SqlDB.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\IHWebApplication\SqlDB\obj\Debug\SqlDB.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SqlDB\bin\Debug\DBConfig.ini
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SqlDB\bin\Debug\SqlDB.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SqlDB\bin\Debug\SqlDB.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SqlDB\bin\Debug\ToolsHelper.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SqlDB\bin\Debug\NVelocity.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SqlDB\bin\Debug\ToolsHelper.pdb
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SqlDB\obj\Debug\SqlDB.csprojResolveAssemblyReference.cache
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SqlDB\obj\Debug\SqlDB.dll
+C:\Users\siki\Documents\Visual Studio 2015\Projects\SHWebApplication\SqlDB\obj\Debug\SqlDB.pdb
+C:\Users\siki\Desktop\SHWebApplication2\SqlDB\bin\Debug\DBConfig.ini
+C:\Users\siki\Desktop\SHWebApplication2\SqlDB\bin\Debug\SqlDB.dll
+C:\Users\siki\Desktop\SHWebApplication2\SqlDB\bin\Debug\SqlDB.pdb
+C:\Users\siki\Desktop\SHWebApplication2\SqlDB\bin\Debug\ToolsHelper.dll
+C:\Users\siki\Desktop\SHWebApplication2\SqlDB\bin\Debug\NVelocity.dll
+C:\Users\siki\Desktop\SHWebApplication2\SqlDB\bin\Debug\ToolsHelper.pdb
+C:\Users\siki\Desktop\SHWebApplication2\SqlDB\obj\Debug\SqlDB.csprojResolveAssemblyReference.cache
+C:\Users\siki\Desktop\SHWebApplication2\SqlDB\obj\Debug\SqlDB.dll
+C:\Users\siki\Desktop\SHWebApplication2\SqlDB\obj\Debug\SqlDB.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SqlDB\bin\Debug\DBConfig.ini
+C:\Users\siki\Desktop\SHWebApplication - 副本\SqlDB\bin\Debug\SqlDB.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SqlDB\bin\Debug\SqlDB.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SqlDB\bin\Debug\ToolsHelper.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SqlDB\bin\Debug\NVelocity.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SqlDB\bin\Debug\ToolsHelper.pdb
+C:\Users\siki\Desktop\SHWebApplication - 副本\SqlDB\obj\Debug\SqlDB.csprojResolveAssemblyReference.cache
+C:\Users\siki\Desktop\SHWebApplication - 副本\SqlDB\obj\Debug\SqlDB.dll
+C:\Users\siki\Desktop\SHWebApplication - 副本\SqlDB\obj\Debug\SqlDB.pdb
+C:\Users\siki\Desktop\WXWebApplication\SqlDB\bin\Debug\DBConfig.ini
+C:\Users\siki\Desktop\WXWebApplication\SqlDB\bin\Debug\SqlDB.dll
+C:\Users\siki\Desktop\WXWebApplication\SqlDB\bin\Debug\SqlDB.pdb
+C:\Users\siki\Desktop\WXWebApplication\SqlDB\bin\Debug\ToolsHelper.dll
+C:\Users\siki\Desktop\WXWebApplication\SqlDB\bin\Debug\NVelocity.dll
+C:\Users\siki\Desktop\WXWebApplication\SqlDB\bin\Debug\ToolsHelper.pdb
+C:\Users\siki\Desktop\WXWebApplication\SqlDB\obj\Debug\SqlDB.csprojResolveAssemblyReference.cache
+C:\Users\siki\Desktop\WXWebApplication\SqlDB\obj\Debug\SqlDB.dll
+C:\Users\siki\Desktop\WXWebApplication\SqlDB\obj\Debug\SqlDB.pdb
+E:\GitHub\WXWebApplication\SqlDB\bin\Debug\DBConfig.ini
+E:\GitHub\WXWebApplication\SqlDB\bin\Debug\SqlDB.dll
+E:\GitHub\WXWebApplication\SqlDB\bin\Debug\SqlDB.pdb
+E:\GitHub\WXWebApplication\SqlDB\bin\Debug\ToolsHelper.dll
+E:\GitHub\WXWebApplication\SqlDB\bin\Debug\NVelocity.dll
+E:\GitHub\WXWebApplication\SqlDB\bin\Debug\ToolsHelper.pdb
+E:\GitHub\WXWebApplication\SqlDB\obj\Debug\SqlDB.csprojResolveAssemblyReference.cache
+E:\GitHub\WXWebApplication\SqlDB\obj\Debug\SqlDB.dll
+E:\GitHub\WXWebApplication\SqlDB\obj\Debug\SqlDB.pdb
